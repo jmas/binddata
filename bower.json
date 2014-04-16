@@ -1,0 +1,14 @@
+{
+  "name": "binddata",
+  "version": "0.0.1",
+  "authors": [
+    "jMas <jmas.ukraine@gmail.com>"
+  ],
+  "description": "bindData function.",
+  "main": "binddata.js",
+  "keywords": [
+    "binddata"
+  ],
+  "license": "MIT",
+  "private": true
+}
